@@ -1,0 +1,122 @@
+[
+    {
+      "picture": "https://i.ibb.co/ChsfnZQ/rectangle-4284.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#0032FF33",
+      "card_bg": "#0034FF26",
+      "text_button_bg": "#0052FF",
+      "description": "Millions of children around the world lack access to clean and safe drinking water, putting their health and futures at risk. Our 'Clean Water for Children' campaign aims to change that.",
+      "price": 19.99
+    },
+    {
+      "picture": "https://i.ibb.co/R98kL4N/rectangle-4287-1.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#FF443333",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Education is the key to unlocking the full potential of every child. Yet, many children around the world are denied access to quality education due to various challenges. Our 'Good Education for All' campaign is dedicated to changing this narrative and creating a brighter future for the next generation.",
+      "price": 24.99
+    },
+    {
+      "picture": "https://i.ibb.co/1GJXdwb/rectangle-4287.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#FF444A",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "As the seasons change, many of us have closets filled with clothing that we no longer wear. Instead of letting these items gather dust, let's put them to good use! Our 'Used Clothing Drive: Share the Warmth' campaign is your opportunity to make a positive impact on the lives of those in need.",
+      "price": 29.99
+    },
+    {
+      "picture": "https://i.ibb.co/ys9LWzd/rectangle-4287-2.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#F87147",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Access to nutritious and wholesome food is a fundamental human right, yet many individuals and families face the daily struggle of putting food on the table. Our 'Better Food for Everyone' campaign is dedicated to addressing this issue head-on and ensuring that no one goes to bed hungry.",
+      "price": 14.99
+    },
+    {
+      "picture": "https://i.ibb.co/Hq5Ppc7/food1.jpg",
+      "title": "Clean Water for All",
+      "category": "Food",
+      "category_bg": "#F87147",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Clean water is a basic human right, yet millions of people around the world still lack access to safe and reliable drinking water sources. Our 'Clean Water for All' campaign is on a mission to change this by ensuring that every person, regardless of where they live, has access to clean and safe water.",
+      "price": 34.99
+    },
+    {
+      "picture": "https://i.ibb.co/VYywkcd/charity.jpg",
+      "title": "Warmth in Every Stitch",
+      "category": "Clothing",
+      "category_bg": "#FF444A",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "Join us in spreading warmth and hope this season! Our Warmth in Every Stitch clothing donation drive aims to collect gently used or new clothing items to provide comfort to those in need during the cold winter months. Your donations will help keep individuals and families warm and protected from the elements. Together, we can make a significant difference in our community and bring smiles to many faces.",
+      "price": 21.99
+    },
+    {
+      "picture": "https://i.ibb.co/hVXjY3L/education.jpg",
+      "title": "Education for All Campaign",
+      "category": "Education",
+      "category_bg": "#FF443333",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Unlock the potential of the next generation through education! Our Empower Minds campaign is dedicated to providing quality education to underserved communities. Your donation will support the establishment of schools, the training of dedicated educators, and the provision of essential learning materials. Together, we can ensure that every child has the opportunity to access knowledge, dream big, and build a brighter future.",
+      "price": 17.99
+    },
+    {
+      "picture": "https://i.ibb.co/nBM4kf5/health1.jpg",
+      "title": "Health Access for All",
+      "category": "Health",
+      "category_bg": "#0032FF33",
+      "card_bg": "#0034FF26",
+      "text_button_bg": "#0052FF",
+      "description": "Healing Hands is our commitment to ensuring that everyone has access to quality healthcare. Your donation will support medical clinics, provide essential medications, and fund life-saving treatments for individuals in underserved communities. Join us in making healthcare a universal right and providing healing and hope to those who need it most.",
+      "price": 27.99
+    },
+    {
+      "picture": "https://i.ibb.co/3sSRgR8/health3.jpg",
+      "title": "Wellness and Well-being Initiative",
+      "category": "Health",
+      "category_bg": "#0032FF33",
+      "card_bg": "#0034FF26",
+      "text_button_bg": "#0052FF",
+      "description": "Invest in the well-being of individuals and communities with our Healthy Futures campaign. Your support will promote preventive healthcare, nutrition education, and mental health services. Together, we can create healthier lives and brighter futures. Join us in building a world where everyone can enjoy a life of well-being and vitality. Donate today and be a part of the change.",
+      "price": 22.99
+    },
+    {
+      "picture": "https://i.ibb.co/m4RvM1P/education2.png",
+      "title": "Literacy and Education Drive",
+      "category": "Education",
+      "category_bg": "#FF443333",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Books are windows to the world, and your support can open them for countless children. Join us in our Books for Change campaign to promote literacy and education. Your donations will provide books, reading programs, and educational resources to schools and communities in need. Together, we can inspire a lifelong love for learning and equip children with the tools they need to succeed in life. Donate today and be a catalyst for positive change through education.",
+      "price": 16.99
+    },
+    {
+      "picture": "https://i.ibb.co/3dCxtnv/clothing3.png",
+      "title": "Professional Attire Donation",
+      "category": "Clothing",
+      "category_bg": "#FF444A",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "Dress for Success is more than just a motto; it's an opportunity for you to make a positive impact. Our campaign seeks donations of professional attire, including suits, dresses, and accessories, to empower individuals striving to enter the workforce. Your contributions will help provide job seekers with the confidence and attire they need to succeed in interviews and build better futures. Join us in transforming lives through the power of professional attire donations.",
+      "price": 30.99
+    },
+    {
+      "picture": "https://i.ibb.co/DL4Vh36/food3.jpg",
+      "title": "Arts and Culture Preservation",
+      "category": "Food",
+      "category_bg": "#F87147",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Preserve and celebrate our cultural heritage through arts and culture initiatives. Your donation will support museums, galleries, and cultural events that enrich our lives.",
+      "price": 19.99
+    }
+  ]
