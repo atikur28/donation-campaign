@@ -39,7 +39,7 @@ const Header = () => {
           </li>
           <li>
             <NavLink
-              to="/donation"
+              to="/statistics"
               className={({ isActive, isPending }) =>
                 isPending
                   ? "pending"
