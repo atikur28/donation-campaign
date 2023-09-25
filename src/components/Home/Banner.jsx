@@ -1,12 +1,11 @@
 import { Link } from "react-router-dom";
-import BannerImage from "../../assets/resources/banner-image.png";
 
 const Banner = () => {
   return (
     <div
       className="hero h-[30vh] md:h-[100vh] xl:h-[70vh] w-full mx-auto"
       style={{
-        backgroundImage: `url(${BannerImage})`,
+        backgroundImage: 'url(https://i.ibb.co/18YYHV4/banner-image.png)',
       }}
     >
       <div className="hero-overlay bg-[#FFFFFFF2] bg-opacity-10"></div>
