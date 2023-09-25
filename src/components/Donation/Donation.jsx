@@ -23,13 +23,15 @@ const Donation = () => {
         </p>
       ) : (
         <div className="mb-20">
-          <div className="w-max mx-auto grid grid-cols-1 lg:grid-cols-2 md:mt-36 gap-5">
+          <div className="w-max mx-auto grid grid-cols-1 xl:grid-cols-2 md:mt-36 gap-5">
             {donation.slice(0, dataLength).map((item) => (
               <DonationCarts key={item.id} item={item}></DonationCarts>
             ))}
           </div>
           <div className={ dataLength === donation?.length ? 'hidden' : 'flex justify-center my-5'}>
-            <Link><button onClick={() => setDataLength(donation.length)} className="btn bg-[#FF444A] text-white px-6 hover:bg-sky-500">See All</button></Link>
+            <div className={donation.length < 5 && 'hidden'}>
+              <Link><button onClick={() => setDataLength(donation.length)} className="btn bg-[#FF444A] text-white px-6 hover:bg-sky-500">See All</button></Link>
+            </div>
           </div>
         </div>
       )}
