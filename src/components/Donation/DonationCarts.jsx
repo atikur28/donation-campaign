@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 
 const DonationCarts = ({ item }) => {
   console.log(item);
-  const { id, picture, category, text_button_bg, category_bg, title, price } = item || {};
+  const { id, picture, category, text_button_bg, category_bg, title, price, card_bg } = item || {};
   return (
-    <div className="flex flex-col items-center bg-white border rounded-lg shadow md:flex-row w-max md:w-[500px] xl:w-[550px] mx-auto">
+    <div className="flex flex-col items-center bg-white border rounded-lg shadow md:flex-row w-max md:w-[500px] xl:w-[550px] mx-auto" style={{background: `${card_bg}`}}>
       <img
         className="object-cover w-[310px] rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
         src={picture}
